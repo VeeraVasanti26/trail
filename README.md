@@ -1,1 +1,1 @@
-# trail o git and github; now branching
+# trail on git and github; now branching
